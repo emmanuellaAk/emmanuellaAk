@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuella
 - 👀 I’m interested in movies and documentaries
-- 🌱 I’m currently learning backend (php)
+- 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on a more projects now to improve upon my TECH journey
 - 📫 How to reach me, twitter: @eemmanuelllaa 
 
